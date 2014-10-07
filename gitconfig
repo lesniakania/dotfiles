@@ -39,8 +39,8 @@
 [merge]
   tool = vimdiff
 [user]
-	name = Ania
-	email = lesniakania@gmail.com
+	name = Ania Slimak
+	email = anna.slimak@lunarlogic.io
 [color]
 	ui = auto
 [push]
@@ -49,3 +49,5 @@
 	recursesubmodules = true
 [github]
 	user = lesniakania
+[core]
+	editor = vim
