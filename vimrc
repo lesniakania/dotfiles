@@ -18,9 +18,6 @@ filetype off                      " required by Vundle
 set rtp+=~/.vim/vundle.git/ 
 call vundle#rc()
 
-" let Vundle manage Vundle
-Bundle 'gmarik/vundle'
-
 "----------------------------------------------------------
 " PLUGINS
 "----------------------------------------------------------

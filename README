@@ -6,7 +6,16 @@ INSTALLATION:
 2. Install dependencies by running install_dependencies.sh
 3. Create the symbolic links by running "cd; ~/dotvim/link_configs.py"
 4. Open VIM, type :BundleInstall to install plugins.
-4. PROFIT!
+5. In vim type:
+
+:ruby puts "#{RUBY_VERSION}-p#{RUBY_PATCHLEVEL}"
+
+Install exactly this ruby and using exactly this ruby generate the makefile and install the plugin (in ~/.vim/bundle/Command-T):
+
+rake make
+make
+
+6. PROFIT!
 
 Optional:
 Add
