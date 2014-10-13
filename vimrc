@@ -95,7 +95,7 @@ Bundle 'Solarized'
 " Bundle 'chmllr/vim-colorscheme-elrodeo'
 
 " cuztomizable tab completion, continued is the newer version
-Bundle 'SuperTab-continued.'
+Bundle 'SuperTab'
 
 " vim-surround - surrounding text with braces, quotes, html tags...
 Bundle 'surround.vim'
